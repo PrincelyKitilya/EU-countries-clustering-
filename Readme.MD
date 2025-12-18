@@ -65,7 +65,7 @@ The tool provides insights into global economic patterns through an intuitive, i
 
 The dashboard visualizes relationships between:
 
-### rimary Metric
+### Primary Metric
 - **GDP per capita**
 
 ### Comparative Metrics
